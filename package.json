@@ -10,8 +10,8 @@
   "license": "UNLICENSED",
   "dependencies": {
     "express": "^4.13.3",
-    "express-ws": "^0.2.6",
-    "helmet": "^0.14.0",
-    "ws": "^0.8.0"
+    "express-ws": "^4.0.0",
+    "helmet": "^3.20.0",
+    "ws": "^7.1.1"
   }
 }
